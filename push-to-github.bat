@@ -2,7 +2,7 @@
 title Push TravelAI Bharat to GitHub
 echo =======================================================
 echo   TravelAI Bharat - Git Push to GitHub
-echo   Repository: https://github.com/chayan0516/tripmind-ai
+echo   Repository: https://github.com/danchirantan/TRIPMIND-AI.git
 echo =======================================================
 echo.
 "C:\Program Files\Git\cmd\git.exe" push -u origin main
