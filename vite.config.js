@@ -2,6 +2,7 @@ import { defineConfig } from 'vite';
 import { app as expressApp } from './server/index.js';
 
 export default defineConfig({
+  base: './',
   server: {
     port: 3000,
     host: true
